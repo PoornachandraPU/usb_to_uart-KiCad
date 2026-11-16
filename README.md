@@ -32,13 +32,19 @@ The PCB uses a USB Type-C connector as the USB interface and provides an externa
 
 ## Schematic
 
+The circuit schematic showing the CP2102N USB-to-UART interface and its associated components.
+
 ![Schematic](images/schematic.png)
 
 ## PCB Layout
 
+The PCB layout showing component placement, track routing, vias, and ground plane.
+
 ![PCB Layout](images/pcb-layout.png)
 
 ## 3D View
+
+3D visualization of the designed PCB, showing the component arrangement and board layout.
 
 ![3D View](images/3d-view.png)
 
