@@ -47,12 +47,14 @@ The PCB uses a USB Type-C connector as the USB interface and provides an externa
 - KiCad
 - CP2102N USB-to-UART bridge
 
-## Project Status
+## Project Status and Limitations
 
 Completed as a learning/prototype project to understand the basic KiCad PCB design workflow.
 
-> **Note:** This project is intended for learning and portfolio demonstration and has not been validated as a production-ready PCB.
+> **Note:** This project was developed as a learning exercise by following a guided tutorial. The PCB layout currently has some unresolved Design Rule Check (DRC) errors, mainly related to routing. These issues were not fully resolved during the project.
+
+The design is intended for learning and portfolio demonstration and has not been validated for manufacturing or real-world hardware operation.
 
 ## Acknowledgement
 
-This project was developed as a learning exercise based on a guided USB-to-UART PCB design tutorial. The project was recreated independently to understand the KiCad schematic and PCB design workflow.
+This project was developed as a learning exercise based on a guided USB-to-UART PCB design tutorial. The design was recreated independently to gain practical exposure to KiCad schematic capture, component placement, PCB routing, and layout design.
